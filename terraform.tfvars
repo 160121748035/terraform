@@ -1,2 +1,2 @@
 instance = ["custom-instance", "example-instance"]
-splats = [1,2,3]
+splats   = [1, 2, 3]

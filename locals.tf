@@ -1,8 +1,8 @@
 locals {
-    ingress = [
-        {port :443,protocol:"tcp"},
-        {port :22,protocol:"tcp"}
-    ]
+  ingress = [
+    { port : 443, protocol : "tcp" },
+    { port : 22, protocol : "tcp" }
+  ]
 }
 
 # dynamic "value" {
